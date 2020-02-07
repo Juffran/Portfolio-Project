@@ -1,0 +1,168 @@
+@font-face{
+    src: url(../Fonts/Merriweather/Merriweather-Black.ttf);
+    font-family: "Merriweather";
+}
+@font-face{
+    src: url(../Fonts/Montserrat/Montserrat-Light.ttf);
+    font-family: "Monsterrat"
+}
+@font-face{
+    src: url(../Fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
+}
+body{
+    margin: 0;
+    text-align: center;
+    background-color: aliceblue;
+}
+.top-div{
+    padding-top: 40px;
+    background-color: #011f4b;
+}
+#cloud1{
+    width: 220px;
+    height: 80px;
+    margin-top: 70px;
+    margin-left: 320px;
+    position: absolute;
+    
+}
+#title1{
+    padding-top: 50px;
+    font-size: 90px;
+    font-family: "Sacramento";
+    background: linear-gradient(to right, crimson, violet, blue );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#title2{
+    background: linear-gradient(to right, yellow, red, orange );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 60px;
+    font-family: "Monsterrat";
+    font-weight: normal;
+}
+#cloud2{
+    position: absolute;
+    width: 220px;
+    height: 80px;
+    padding-right: 100px;
+    
+  
+}
+
+#mountain{
+    width: 750px;
+    height: 400px;
+    margin-left: 180px;
+
+}
+.midd-div{
+    padding-top: 40px;
+}
+#profile{
+    border-radius: 100px;
+    width: 220px;
+    height: 220px;
+    
+}
+#hello{
+    font-size: 50px;
+    font-family: "Monsterrat";
+    color: #03396c;
+    margin-bottom: 70px;
+}
+
+#skills{
+    font-size: 50px;
+    font-family: "Monsterrat";
+    color: #03396c;
+    margin-bottom: 70px;
+}
+#text-web{
+    text-align: center; 
+    font-size: 20px;
+    font-family: "Monsterrat";
+    color: #005b96;
+    margin-right: 450px;
+    margin-top: 20px;
+
+}
+#image1{
+    width: 120px;
+    height: 120px;
+    float: left;
+    padding-left: 25%;
+    padding-top: 0.1in;  
+    
+}
+
+.sentences{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: black;
+    float: center;
+    margin-right: 350px;
+    font-style: italic;
+}
+.astro{
+    text-align: center;
+    font-size: 20px;
+    font-style: 'Monsterrat';
+    color: #005b96;
+    
+}
+#image2{
+    width: 100px;
+    height: 100pxn;
+    float: right;
+    position: relative;
+    border-radius: 50%;
+    margin-right: 250px;
+
+}
+.Starg{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    float: center;
+    margin-left: 360px;
+    color: black;
+    font-style: italic;
+
+
+}
+.sentences1{
+    float: center;
+    font-size: 20px;
+    line-height: 4px;
+}
+.foot{
+    background-color: #6497b1;
+    padding-top: 30px;
+    margin-top: 40px;
+    padding-bottom: 30px;
+
+}
+#button{
+    margin-top: 20px;
+    padding-top: 5px;
+    color: blue;
+}
+#text-title2{
+    margin: 20px;
+    font-size: 50px;
+    font-family: 'Monsterrat';
+    color: #03396c;
+}
+#getin{
+    font-size: 50px;
+    font-family: "Monsterrat";
+    color: #03396c;
+    margin-bottom: 70px;
+}
+.socialnet{
+    text-decoration: none;
+    font-size: 28px;
+    color: #1e1f26;
+}
